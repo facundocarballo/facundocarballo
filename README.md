@@ -16,8 +16,3 @@ The last app that I made allowed my father to handle his bookings for his barber
 - 👯 I’m looking to collaborate on any Flutter or SwiftUI projects 
 - 📫 How to reach me: Contact me on Instagram @facundocarballo_ 
 - ⚡ Fun fact: I love listening Queen music and I like to play soccer and tennis 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/facundocarballo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/facundocarballo_/)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=facundocarballo&show_icons=true&count_private=true)  
