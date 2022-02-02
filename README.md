@@ -1,18 +1,18 @@
-### Hi there 👋, I'm Facundo Carballo
-#### I'm student of Computer Engineering at UNLAM
-I like to create apps for my own that can be useful for other people.
-</br>
+<img src='https://i.ibb.co/W0LT4vH/Captura-de-Pantalla-2022-02-01-a-la-s-23-22-49.png' />
+
+## Who I'm?
+I’m a student of Computer Engineering at UNLAM. In my free time I like to learn new things about software development, which I try to implement creating funtional applications.
 ## Skills
-I like to use Flutter or any other framework that allows you design the UI in a declarative way. I feel much more productive working in this way because I can focus in what I like most that it's create the logic of the app.
-- <img src='https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white'>
-- <img src = 'https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white'>
-- <img src ='https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black'>
-
-## Experience
-The last app that I made allowed my father to handle his bookings for his barber shop in more efficient and clear way.
-
-- 🔭 I’m currently working on add more features to the booking app 
-- 🌱 I’m currently learning C & C++ 
-- 👯 I’m looking to collaborate on any Flutter or SwiftUI projects 
-- 📫 How to reach me: Contact me on Instagram @facundocarballo_ 
-- ⚡ Fun fact: I love listening Queen music and I like to play soccer and tennis 
+[<img src='https://cfeapps.com/wp-content/uploads/2020/04/SwiftUI-la-nueva-forma-de-crear-Apps2.png' width='50px'/>]()
+<img src='https://camo.githubusercontent.com/dc130e15e764a2ce83daf7503c9b73e5ee349259ceb82b4a0f393339289f8564/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f313230302f312a352d616f4b3849426d58766535776842514d393047412e706e67' width='50px' />
+<img src='https://i.ibb.co/9yTsfGz/REACT.png' width='50px' />
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png' width='50px'/>
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png' width='50px'/>
+<img src='https://damiandeluca.com.ar/wp-content/uploads/2019/07/next-js.png' width='100px'/>
+<img src='https://solidity-es.readthedocs.io/es/latest/_images/logo.svg' width='50px'/>
+<img src='https://trufflesuite.com/assets/logo.png' width='50px'/>
+## Contact Me
+[<img src='https://i.ibb.co/3kmQ59f/memoji-guino.webp' width='50px'/>](https://facundo-carballo.web.app)
+[<img src='https://cdn-icons-png.flaticon.com/512/87/87390.png' width='50px'/>](https://www.instagram.com/facundocarballo_)
+[<img src='https://play-lh.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc' width='50px'/>](https://www.youtube.com/channel/UCsHoGhGuLYu4_t_4qF4cZmw)
+[<img src='https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw' width='50px'/>](https://www.linkedin.com/in/facundo-carballo-a1b128228/)
