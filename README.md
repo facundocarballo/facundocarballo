@@ -16,3 +16,45 @@ I’m a student of Computer Engineering at UNLAM. In my free time I like to lear
 [<img src='https://cdn-icons-png.flaticon.com/512/87/87390.png' width='50px'/>](https://www.instagram.com/facundocarballo_)
 [<img src='https://play-lh.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc' width='50px'/>](https://www.youtube.com/channel/UCsHoGhGuLYu4_t_4qF4cZmw)
 [<img src='https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw' width='50px'/>](https://www.linkedin.com/in/facundo-carballo-a1b128228/)
+
+# My Work
+
+### I create a ERC20 Token and an ICO for this token using React, ChakraUI, Solidity, Truffle & the Kovan Testnet
+### [🖥 FacuTokenICO](https://facundo-carballo.web.app/projects/facuTokenICO/)
+### [👨🏼‍💻 Source Code](https://github.com/facundocarballo/FacuTokenICO)
+### [🎥 YouTube Video](https://youtu.be/BvGrTLmxkQQ)
+
+<img src='https://media.giphy.com/media/cz5Tp14bI0wAJgy54w/giphy.gif' width='300px'/>
+
+---
+
+### I create a Wallet App to handle my own finance
+### [🖥 MyWallet](https://facundo-carballo.web.app/projects/myWallet/)
+### [👨🏼‍💻 Source Code](https://github.com/facundocarballo/myWallet)
+### [🎥 YouTube Video](https://youtu.be/hzizZr8eeow)
+
+<img src='https://media.giphy.com/media/oQEbwaoGUWwnylmVP6/giphy.gif' width='300px'/>
+
+---
+
+### I create a ToDo List Dapp, using React, ChakraUI, Solidity, Truffle & Ganache
+### [👨🏼‍💻 Source Code](https://github.com/facundocarballo/todoListETH)
+### [🎥 YouTube Video](https://youtu.be/cyKvTo89HRY)
+
+<img src='https://i.ibb.co/g4pq1mS/Todo-List-APP.png' width='300px'/>
+
+---
+
+### I create my entire website using React & ChakraUI
+### [💻 Web Site](https://facundo-carballo.web.app/)
+
+<img src='https://media.giphy.com/media/jSqNyJVwbCsormp1mW/giphy.gif' width='300px'/>
+
+---
+
+### I create a Web App to my father using Flutter
+### [ 👨🏼‍💻 Source Code](https://github.com/facundocarballo/agendaNegocio)
+
+[<img src='https://i.ibb.co/j4YhhYB/Whats-App-Image-2022-02-03-at-12-32-03.jpg' width='300px'/>]()
+<img src='https://i.ibb.co/gTZfYcv/Whats-App-Image-2022-02-03-at-12-32-03-1.jpg' width='300px'/>
+<img src='https://i.ibb.co/4RYQ9Zm/Whats-App-Image-2022-02-03-at-12-32-03-2.jpg' width='300px'/>
