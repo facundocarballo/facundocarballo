@@ -1,7 +1,7 @@
 <img src='https://i.ibb.co/W0LT4vH/Captura-de-Pantalla-2022-02-01-a-la-s-23-22-49.png' />
 
 ## Who I'm?
-I’m a student of Computer Engineering at UNLAM. In my free time I like to learn new things about software development, which I try to implement creating funtional applications.
+I’m a student of Computer Engineering at UNLAM. In my free time I like to learn new things about software development, which I try to implement creating functional applications.
 ## Skills
 [<img src='https://cfeapps.com/wp-content/uploads/2020/04/SwiftUI-la-nueva-forma-de-crear-Apps2.png' width='50px'/>]()
 <img src='https://camo.githubusercontent.com/dc130e15e764a2ce83daf7503c9b73e5ee349259ceb82b4a0f393339289f8564/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f313230302f312a352d616f4b3849426d58766535776842514d393047412e706e67' width='50px' />
