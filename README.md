@@ -8,12 +8,12 @@ I’m a student of Computer Engineering at UNLAM. In my free time I like to lear
 <img src='https://i.ibb.co/9yTsfGz/REACT.png' width='50px' />
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png' width='50px'/>
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png' width='50px'/>
-<img src='https://damiandeluca.com.ar/wp-content/uploads/2019/07/next-js.png' width='100px'/>
-<img src='https://solidity-es.readthedocs.io/es/latest/_images/logo.svg' width='50px'/>
+<img src='https://res.cloudinary.com/escuela-frontend/image/upload/v1624399800/tags/nextjs.png' width='50px'/>
+<img src='https://i.ibb.co/gt6Xwz9/Captura-de-Pantalla-2022-02-05-a-la-s-13-47-53.png' width='50px'/>
 <img src='https://trufflesuite.com/assets/logo.png' width='50px'/>
 ## Contact Me
 [<img src='https://i.ibb.co/3kmQ59f/memoji-guino.webp' width='50px'/>](https://facundo-carballo.web.app)
-[<img src='https://cdn-icons-png.flaticon.com/512/87/87390.png' width='50px'/>](https://www.instagram.com/facundocarballo_)
+[<img src='https://cdn.pixabay.com/photo/2020/11/15/06/18/instagram-logo-5744708_1280.png' width='50px'/>](https://www.instagram.com/facundocarballo_)
 [<img src='https://play-lh.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc' width='50px'/>](https://www.youtube.com/channel/UCsHoGhGuLYu4_t_4qF4cZmw)
 [<img src='https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw' width='50px'/>](https://www.linkedin.com/in/facundo-carballo-a1b128228/)
 
